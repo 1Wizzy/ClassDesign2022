@@ -1,0 +1,6 @@
+使用本程序需要自己的APIToken
+1.注册百度智能云https://console.bce.baidu.com/
+2.领取OCR免费测试资源
+3.创建应用
+4.得到API Key和Secret Key
+5.可以随意使用本程序啦~~~
